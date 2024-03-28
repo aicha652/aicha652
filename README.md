@@ -34,7 +34,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/aicha652/aicha652/output/snake.svg" alt="Snake animation" />
-
-###
